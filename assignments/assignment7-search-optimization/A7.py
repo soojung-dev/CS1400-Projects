@@ -1,6 +1,6 @@
-# A7_2.py
+# A7.py
 # Assignment 7: Search & Loop Patterns + Performance Measurement
-# Written by Soojung Kim, Junghee Kim
+# Written by Soojung Kim
 #
 # NOTE: Do not use min(), max(), 'in' for membership tests, list.index(), count(),
 # set(), join(), or str(list) to solve required logic.
