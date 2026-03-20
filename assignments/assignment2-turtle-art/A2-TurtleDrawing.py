@@ -2,7 +2,7 @@ import turtle
 
 # -----------------------------------------------------------------------------
 # CS1400 – Assignment 2: Turtle Art
-# Starter enhanced & completed by Soojung Kim and Junghee Kim
+# Starter enhanced & completed by Soojung Kim
 # -----------------------------------------------------------------------------
 
 # -----------------------------------------------------------------------------
