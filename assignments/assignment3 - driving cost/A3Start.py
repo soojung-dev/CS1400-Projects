@@ -1,5 +1,5 @@
 # CS1400 – Assignment 3: Part 1
-# Author: Soojung Kim & Junghee Kim
+# Author: Soojung Kim
 # Practice functions with parameters and return values
 
 def convert_to_fahrenheit(celsius):
