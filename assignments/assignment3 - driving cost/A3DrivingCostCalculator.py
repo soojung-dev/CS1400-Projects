@@ -1,5 +1,5 @@
-# CS1400 – Assignment 3: Driving Cost Calculator
-# Author: Soojung Kim & Junghee Kim
+# CS1400 – Assignment 3: Part 2 (Driving Cost Calculator)
+# Author: Soojung Kim
 # This program calculates trip costs for gas and electric vehicles.
 
 def calculate_gas_vehicle_trip_cost(miles, mpg, gas_cost):
