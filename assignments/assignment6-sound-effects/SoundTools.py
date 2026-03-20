@@ -1,13 +1,10 @@
 # CS 1400
 # Assignment 6: Sound Effects
-# Written by Soojung Kim, Junghee Kim
+# Written by Soojung Kim
 #
 # This file defines helper functions that operate on lists of integer samples
 # to create simple audio effects. Each function returns a NEW list and does not
 # mutate the input list. A small test suite is provided in main().
-#
-# NOTE: Implementations use only loops/conditionals and built-in types
-# (no list comprehensions, no slicing tricks).
 
 import random
 
