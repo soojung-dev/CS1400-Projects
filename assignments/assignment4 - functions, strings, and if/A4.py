@@ -1,5 +1,5 @@
 # A4.py
-# Assignment completed by: Junghee Kim & Soojung Kim
+# Assignment completed by: Soojung Kim
 # This file implements several functions and tests them from main().
 
 # ------------------------------------------------------------
