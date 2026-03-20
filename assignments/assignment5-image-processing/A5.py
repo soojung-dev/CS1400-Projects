@@ -1,6 +1,6 @@
 # CS 1400
 # Assignment 5: Image Processing
-# Written by Soojung Kim, Junghee Kim
+# Written by Soojung Kim
 
 from graphics import *
 from random import *
