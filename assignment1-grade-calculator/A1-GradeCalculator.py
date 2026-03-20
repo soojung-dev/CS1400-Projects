@@ -1,5 +1,5 @@
 # This calculates a grade in CS 1400 for various midterm scores.
-# By Soojung Kim & Junghee Kim, 2025-8-27
+# By Soojung Kim, 2025-8-27
 
 # assignment & quiz & lab = 10% & 25% & 10%
 name = input("Write your name: ")
